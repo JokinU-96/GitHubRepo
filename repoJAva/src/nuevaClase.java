@@ -1,2 +1,11 @@
-package PACKAGE_NAME;public class nuevaClase {
+public class nuevaClase {
+    String variable;
+
+    public String getVariable() {
+        return variable;
+    }
+
+    public void setVariable(String variable) {
+        this.variable = variable;
+    }
 }
